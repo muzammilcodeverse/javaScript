@@ -1,0 +1,40 @@
+# Node.js dependencies
+node_modules/
+
+# Build and dist folders
+dist/
+build/
+
+# Logs
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Editor folders and files
+.vscode/
+.idea/
+
+# Media files
+*.mp4
+*.mp3
+*.wav
+*.avi
+*.mov
+*.mkv
+*.flac
+
+# Backup/temp files
+*.tmp
+*.bak
+*~
+
+# Environment and secrets
+.env
+.env.local
+.env.*.local
+
+# Package locks (optional: keep one if you want)
+package-lock.json
+yarn.lock
